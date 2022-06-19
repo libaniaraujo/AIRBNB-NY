@@ -17,7 +17,7 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
   
 ## 3. Problema de negócio
 
-As perguntas do CEO:
+<b>As perguntas do CEO:</b>
 - Qual o valor médio do aluguel na cidade de Nova York?
 - Quais os nomes das regiões que existem na cidade de Nova York?
 - Qual é o valor do aluguel mais caro da cidade de Nova York?
@@ -26,15 +26,9 @@ As perguntas do CEO:
 - Como é a variação dos preços dos imóveis em Nova York?
 - Existem mais imóveis baratos ou caros?
 - Qual a distribuição do número de reviews? Existem imóveis com muitos e outros com poucos reviews?
-- Quais são as categorias de imóveis que estão cadastradas dentro da base de dados da cidade de Nova York?
-- Existem quantos usuários (hosts) únicos cadastrados dentro da base de dados da cidade de Nova York?
-- Como é a variação dos preços dos imóveis em Nova York?
-- Existem mais imóveis baratos ou caros?
-- Qual a distribuição do número de reviews? Existem imóveis com muitos e outros com poucos reviews?
-- Qual é o valor do aluguel (diária) mais caro de cada região da base de dados na cidade de Nova York?
 - Conseguimos saber onde estão localizados os imóveis com o valor do aluguel mais caro na cidade de Nova York?
 - Conseguimos saber onde estão localizados os imóveis pelo seu tipo?
-
+- Conseguimos visualizar esses resultados em um mapa?
 
 ## 4. Planejamento da solução:
 
@@ -69,16 +63,22 @@ As perguntas do CEO:
 `calculated_host_listings_count` | Quantidade de anúncios do host do imóvel.
 `availability_365` | Tempo (dias) que o anúncio está disponível na plataforma - 0 significa apartamento indisponível.
  
+ 
  ## 6. Pressupostos:
 
 <b>Algumas suposições foram definidas previamente pelo time de negócio:</b>
-
+- Devem ser descondiderados os imóveis indisponíveis para locação, mesmo que estejam presentes 
+- As variáveis que contém a identificação (nome) do host ou do imóvel não devem ser consideradas na análise, com o intuito de preservar a anonimidade. 
 
 
 ## 7. Principais resultados:
 
 <b>Insights obtidos a partir da análise dos dados:</b>
-
+- O preço médio do aluguel dos imóveis da Airbnb em Nova York é US$162,05.
+- O aluguel mais caro entre os imóveis da Airbnb na cidade de Nova York é US$10.000,00.
+- Há 21809 anfitriões (hosts) cadastrados na base de dados da Airbnb na cidade de Nova York.
+- A quantidade máxima de avaliações recebida por um host é 629 e a quantidade mínima é 0.
+- O maior tempo (dias) em que o anúncio está disponível na plataforma é 365 dias e o menor tempo é 1 dia.
 
 
 ## 9. Produto final (dashboard):
