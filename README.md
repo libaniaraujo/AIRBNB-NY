@@ -46,11 +46,28 @@ As perguntas do CEO:
 
 ## 5. Dados:
 
+- Os dados foram obtidos na plataforma do Kaggle: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
 - Os atributos dos imóveis apresentados no conjunto de dados são descritos na tabela abaixo.
 
 **Atributo** | **Descrição**
 --- | --- 
- 
+`id`| Identificador do registro na base de dados.
+`name`| Nome do anúncio na plataforma do Airbnb.
+`host_id`| Identificador do host (dono do imóvel).
+`host_name`| Nome do host.
+`neighbourhood_group`| Região da cidade de Nova York.
+`neighbourhood`| Bairro (dentro de uma das regiões).
+`latitude`| Ponto geográfico da latitute.
+`longitude`| Ponto geográfico da longitude.
+`room_type`| Tipo da locação (quarto, casa inteira, etc).
+`price`| Preço do aluguel (diária).
+`minimum_nights`| Diárias mínimas para locação.
+`number_of_reviews`| Quantidade de avaliações.
+`last_review`|  Data da última avaliação.
+`reviews_per_month`| Quantidade de revisões mensais.
+`calculated_host_listings_count` | Quantidade de anúncios do host do imóvel.
+`availability_365` | Tempo (dias) que o anúncio está disponível na plataforma - 0 significa apartamento indisponível.
  
  ## 6. Pressupostos:
 
