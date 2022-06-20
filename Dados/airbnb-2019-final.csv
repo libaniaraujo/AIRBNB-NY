@@ -12375,7 +12375,6 @@ ID,Host_ID,Regiao,Bairro,Latitude,Longitude,Tipo_do_local,Preco,Minimo_de_noites
 18748170,493545,Brooklyn,Crown Heights,40.67305,-73.94788,Private room,90,1,3,2,179
 18750465,120762452,Manhattan,Murray Hill,40.74863,-73.9767,Entire home/apt,150,30,0,50,365
 18750505,8010331,Manhattan,East Harlem,40.80324,-73.9352,Entire home/apt,120,2,8,1,11
-18750597,8993084,Brooklyn,Bedford-Stuyvesant,40.69023,-73.95428,Private room,0,4,1,4,28
 18751261,130452689,Brooklyn,Greenpoint,40.72357,-73.95057,Entire home/apt,225,2,2,1,34
 18751687,73214623,Brooklyn,Williamsburg,40.71627,-73.93957,Private room,100,7,1,1,365
 18752307,130461656,Manhattan,Harlem,40.81372,-73.95612,Entire home/apt,195,1,51,1,67
@@ -13564,7 +13563,6 @@ ID,Host_ID,Regiao,Bairro,Latitude,Longitude,Tipo_do_local,Preco,Minimo_de_noites
 20331995,48032663,Queens,Richmond Hill,40.70171,-73.82991,Entire home/apt,65,2,95,1,105
 20332842,145072632,Manhattan,Hell's Kitchen,40.76181,-73.98865,Private room,110,3,111,2,128
 20333200,683180,Manhattan,Upper West Side,40.77345,-73.98774,Private room,89,10,10,1,248
-20333471,131697576,Bronx,East Morrisania,40.83296,-73.88668,Private room,0,2,55,4,127
 20333831,145082728,Brooklyn,Bedford-Stuyvesant,40.67907,-73.94916,Entire home/apt,150,2,18,2,86
 20337158,32446721,Queens,Corona,40.74748,-73.8647,Shared room,45,1,18,6,365
 20346887,68598597,Manhattan,Washington Heights,40.84684,-73.93252,Private room,55,1,22,2,91
@@ -13744,7 +13742,6 @@ ID,Host_ID,Regiao,Bairro,Latitude,Longitude,Tipo_do_local,Preco,Minimo_de_noites
 20621413,145801588,Manhattan,Midtown,40.75371,-73.97226,Entire home/apt,699,3,3,4,324
 20624287,76765350,Brooklyn,Bedford-Stuyvesant,40.68163,-73.95558,Private room,37,7,15,2,71
 20624427,128227275,Manhattan,Harlem,40.82736,-73.95292,Private room,65,1,41,1,81
-20624541,10132166,Brooklyn,Williamsburg,40.70838,-73.94645,Entire home/apt,0,5,3,1,73
 20624817,100829279,Manhattan,Midtown,40.76033,-73.96946,Entire home/apt,270,1,154,3,234
 20628186,146776990,Brooklyn,East Flatbush,40.65312,-73.93413,Private room,35,30,5,4,263
 20634950,25518844,Brooklyn,Greenpoint,40.72992,-73.96,Private room,200,2,11,1,179
@@ -13753,9 +13750,6 @@ ID,Host_ID,Regiao,Bairro,Latitude,Longitude,Tipo_do_local,Preco,Minimo_de_noites
 20636888,124860677,Queens,Flushing,40.75777,-73.81172,Private room,54,2,65,6,361
 20636966,1521723,Manhattan,Lower East Side,40.7147,-73.98994,Entire home/apt,400,3,5,1,26
 20639311,34379227,Queens,Sunnyside,40.74317,-73.92532,Entire home/apt,140,3,40,1,42
-20639628,86327101,Brooklyn,Bedford-Stuyvesant,40.68173,-73.91342,Private room,0,1,93,6,176
-20639792,86327101,Brooklyn,Bedford-Stuyvesant,40.68279,-73.9117,Private room,0,1,95,6,232
-20639914,86327101,Brooklyn,Bedford-Stuyvesant,40.68258,-73.91284,Private room,0,1,95,6,222
 20640353,3363377,Brooklyn,Williamsburg,40.70942,-73.94897,Private room,105,2,48,2,46
 20641332,108894035,Manhattan,Lower East Side,40.72008,-73.98786,Entire home/apt,139,5,12,1,25
 20641534,60908748,Brooklyn,Bushwick,40.70011,-73.92241,Private room,100,1,132,2,74
@@ -14381,7 +14375,6 @@ ID,Host_ID,Regiao,Bairro,Latitude,Longitude,Tipo_do_local,Preco,Minimo_de_noites
 21289522,154037433,Queens,Jamaica,40.67048,-73.77259,Private room,35,1,65,3,52
 21289615,33036193,Manhattan,East Village,40.72615,-73.98303,Private room,120,10,31,2,17
 21289640,154037433,Queens,Jamaica,40.66934,-73.77269,Private room,68,1,14,3,13
-21291569,101970559,Brooklyn,Bushwick,40.69211,-73.9067,Shared room,0,30,2,6,333
 21291783,50455642,Brooklyn,Williamsburg,40.71528,-73.95365,Private room,55,2,135,1,30
 21292130,21210879,Brooklyn,Crown Heights,40.67433,-73.92824,Entire home/apt,298,3,24,1,265
 21292185,17706542,Brooklyn,Bushwick,40.69731,-73.90824,Shared room,29,30,2,6,324
@@ -14399,7 +14392,6 @@ ID,Host_ID,Regiao,Bairro,Latitude,Longitude,Tipo_do_local,Preco,Minimo_de_noites
 21298471,60758194,Brooklyn,Canarsie,40.64185,-73.91509,Entire home/apt,160,2,1,1,191
 21298561,130667097,Brooklyn,Williamsburg,40.70529,-73.9331,Entire home/apt,300,1,1,2,347
 21299488,44439712,Manhattan,East Harlem,40.79242,-73.94178,Private room,70,4,23,1,80
-21304320,101970559,Brooklyn,Bushwick,40.69166,-73.90928,Shared room,0,30,5,6,139
 21305248,1710317,Manhattan,Hell's Kitchen,40.76197,-73.98961,Entire home/apt,200,1,107,1,200
 21306332,22541573,Manhattan,Chelsea,40.74071,-73.99977,Entire home/apt,170,30,0,87,307
 21306375,148237535,Brooklyn,Canarsie,40.64162,-73.90915,Private room,80,3,1,4,364
