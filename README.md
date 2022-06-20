@@ -8,7 +8,7 @@
 ## 1. Resumo
 
 - [<b>Código no Jupyter Notebook</b>](https://github.com/libaniaraujo/AIRBNB-NY/blob/main/Notebook/Space%20Rental%20(Airbnb%20Nova%20York%202019).ipynb)
-- [<b>Dashboard no Power BI</b>]
+- [<b>Dashboard no Power BI</b>](https://app.powerbi.com/view?r=eyJrIjoiMjU2NjdmNDEtODVjNy00MmZiLTljMTQtMTQ0M2ZlMzFmZWE0IiwidCI6IjMyYTQ3YWQwLTZkOWItNGMzYy1hNmJlLWVjZmVmOTlkOGU1NCJ9)
 
 ## 2. Contexto
 
@@ -126,12 +126,12 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
 
 ## 9. Produto final (dashboard):
 
-<img src = "" />
+<img src = "https://user-images.githubusercontent.com/94937578/174641670-d9788e80-40d9-4fcc-996d-e8311343a989.png" />
 </div>
 
-<img src = "" />
+<img src = "https://user-images.githubusercontent.com/94937578/174641281-7dce1390-8b4e-4eb5-9d37-16142fda03ca.png" />
 </div>
 
-<img src = "" />
+<img src = "https://user-images.githubusercontent.com/94937578/174641400-333a5157-161f-486f-b203-a439b7123b24.png" />
 </div>
 
