@@ -81,7 +81,7 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
 
 - O aluguel mais caro entre os imóveis da Airbnb na cidade de Nova York é US$10.000,00 e está localizado em Manhattan.
 
-- O aluguel mais barato entre os imóveis da Airbnb na cidade de Nova York é US$10,00 e está localizado no Bronx.
+- O aluguel mais barato entre os imóveis da Airbnb na cidade de Nova York é US$10,00.
 
 - O preço do aluguel diário da maior parte dos imóveis da Airbnb em Nova York está entre US$50 e U$99.
                                                                                                                            
