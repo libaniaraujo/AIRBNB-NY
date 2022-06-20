@@ -135,3 +135,9 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
 <img src = "https://user-images.githubusercontent.com/94937578/174641400-333a5157-161f-486f-b203-a439b7123b24.png" />
 </div>
 
+
+## 10. Referências
+
+- [<b>Canal Seja um Data Scientist</b>](https://www.youtube.com/c/SejaUmDataScientist)
+- [<b>Kaggle</b>](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+
