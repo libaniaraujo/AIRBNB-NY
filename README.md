@@ -77,7 +77,7 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
 
 - O preço médio do aluguel dos imóveis da Airbnb em Nova York é US$162,05.
 
-- O aluguel mais caro entre os imóveis da Airbnb na cidade de Nova York é US$10.000,00.
+- O aluguel mais caro entre os imóveis da Airbnb na cidade de Nova York é US$10.000,00 e está localizado em Manhattan.
 
 - O preço do aluguel diário da maior parte dos imóveis da Airbnb em Nova York está entre US$50 e U$99.
                                                                                                                            
