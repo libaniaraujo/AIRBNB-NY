@@ -7,7 +7,7 @@
 
 ## 1. Resumo
 
-- [<b>Código no Jupyter Notebook</b>]
+- [<b>Código no Jupyter Notebook</b>](https://github.com/libaniaraujo/AIRBNB-NY/blob/main/Notebook/Space%20Rental%20(Airbnb%20Nova%20York%202019).ipynb)
 - [<b>Dashboard no Power BI</b>]
 
 ## 2. Contexto
@@ -67,8 +67,8 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
  ## 6. Pressupostos:
 
 <b>Algumas suposições foram definidas previamente pelo time de negócio:</b>
-- Devem ser descondiderados os imóveis indisponíveis para locação, mesmo que estejam presentes 
-- As variáveis que contém a identificação (nome) do host ou do imóvel não devem ser consideradas na análise, com o intuito de preservar a anonimidade. 
+- Devem ser descondiderados os imóveis indisponíveis para locação, mesmo que estejam presentes.
+- As variáveis que contém a identificação (nome) do host ou do imóvel não devem ser consideradas na análise. 
 
 
 ## 7. Principais resultados:
@@ -77,7 +77,7 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
 
 - O preço médio do aluguel dos imóveis da Airbnb em Nova York é US$162,05.
 
-- O aluguel mais caro entre os imóveis da Airbnb na cidade de Nova York é US$10.000,00.
+- O aluguel mais caro entre os imóveis da Airbnb na cidade de Nova York é US$10.000,00 e está localizado em Manhattan.
 
 - O preço do aluguel diário da maior parte dos imóveis da Airbnb em Nova York está entre US$50 e U$99.
                                                                                                                            
