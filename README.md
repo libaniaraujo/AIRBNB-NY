@@ -67,8 +67,8 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
  ## 6. Pressupostos:
 
 <b>Algumas suposições foram definidas previamente pelo time de negócio:</b>
-- Devem ser descondiderados os imóveis indisponíveis para locação, mesmo que estejam presentes 
-- As variáveis que contém a identificação (nome) do host ou do imóvel não devem ser consideradas na análise, com o intuito de preservar a anonimidade. 
+- Devem ser descondiderados os imóveis indisponíveis para locação, mesmo que estejam presentes.
+- As variáveis que contém a identificação (nome) do host ou do imóvel não devem ser consideradas na análise. 
 
 
 ## 7. Principais resultados:
