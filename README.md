@@ -7,7 +7,7 @@
 
 ## 1. Resumo
 
-- [<b>Código no Jupyter Notebook</b>]
+- [<b>Código no Jupyter Notebook</b>](https://github.com/libaniaraujo/AIRBNB-NY/blob/main/Notebook/Space%20Rental%20(Airbnb%20Nova%20York%202019).ipynb)
 - [<b>Dashboard no Power BI</b>]
 
 ## 2. Contexto
