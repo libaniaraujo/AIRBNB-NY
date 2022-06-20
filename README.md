@@ -73,15 +73,61 @@ Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO
 
 ## 7. Principais resultados:
 
-<b>Insights obtidos a partir da análise dos dados:</b>
+<b>Insights obtidos a partir da análise dos dados relativos ao ano de 2019:</b>
+
 - O preço médio do aluguel dos imóveis da Airbnb em Nova York é US$162,05.
+
 - O aluguel mais caro entre os imóveis da Airbnb na cidade de Nova York é US$10.000,00.
+
+- O preço do aluguel diário da maior parte dos imóveis da Airbnb em Nova York está entre US$50 e U$99.
+                                                                                                                           
+<img src = "https://user-images.githubusercontent.com/94937578/174607354-5a0cef18-4832-4ccb-a6bb-df97e25f30e0.png"  width="800px" />
+</div>                                                                                                                        
+
+- A região com o preço médio do aluguel mais caro é Manhattan (US$214.20) e a região com preço do aluguel mais barato é Bronx (US$89,01).
+
+<img src = "https://user-images.githubusercontent.com/94937578/174611409-12a050be-665e-41ac-9b85-c32f737f3262.png" />
+</div>
+
+- Há três tipos de imóveis: apartamento inteiro (entire home/apt), quarto privado (private room) e quarto compartilhado (shared room). A quantidade de imóveis de cada uma dessas categorias é:
+
+<img src = "https://user-images.githubusercontent.com/94937578/174605956-da81da0e-390f-4eee-aac1-7acd69e8b3dc.png" />
+</div>
+
+- O preço médio dos imóveis de cada uma dessas categorias é:
+
+<img src = "https://user-images.githubusercontent.com/94937578/174611651-424fb9bf-cc24-45ce-b44c-a1976d1e9fdd.png" />
+</div>
+
 - Há 21809 anfitriões (hosts) cadastrados na base de dados da Airbnb na cidade de Nova York.
+
 - A quantidade máxima de avaliações recebida por um host é 629 e a quantidade mínima é 0.
+
+- A quantidade máxima de anúncios publicados por um host é 327 e a quantidade mínima é 1.
+
 - O maior tempo (dias) em que o anúncio está disponível na plataforma é 365 dias e o menor tempo é 1 dia.
+
+- O número médio de diárias mínimas para locação é 8.
+
+- A maior parte dos imóveis alugados pela Airbnb apresenta diárias mínimas entre 2 e 3 noites.
+
+<img src = "https://user-images.githubusercontent.com/94937578/174608643-93573c3b-fdc2-480e-afbb-fe006e6251c3.png"  width="800px" />
+</div>
+
+- Distribuição espacial dos imóveis por tipo:
+
+<img src = "https://user-images.githubusercontent.com/94937578/174604089-9c56cc6e-32b9-40f1-b44c-5676d017c0ac.png" />
+</div>
 
 
 ## 9. Produto final (dashboard):
 
+<img src = "" />
+</div>
 
+<img src = "" />
+</div>
+
+<img src = "" />
+</div>
 
